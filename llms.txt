@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في سكون الليل
+> تعال إلي واسكن في روحي
+> نار الأشواق تحرقني ببطء
+> دعنا نذوب في هذا العشق
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
